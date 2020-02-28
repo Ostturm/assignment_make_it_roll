@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ostturm/Documents/iCUB/TRYNE/assignment_make-it-roll-master/src/helpers.h
+yarp/os/RpcClient.h
+-
+yarp/sig/Vector.h
+-
+
+/home/ostturm/Documents/iCUB/TRYNE/assignment_make-it-roll-master/src/main.cpp
+string
+-
+mutex
+-
+yarp/os/all.h
+-
+yarp/dev/all.h
+-
+yarp/sig/all.h
+-
+yarp/math/Math.h
+-
+helpers.h
+/home/ostturm/Documents/iCUB/TRYNE/assignment_make-it-roll-master/src/helpers.h
+

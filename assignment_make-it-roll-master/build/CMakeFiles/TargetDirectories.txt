@@ -1,0 +1,8 @@
+/home/ostturm/Documents/iCUB/TRYNE/assignment_make-it-roll-master/build/CMakeFiles/install/strip.dir
+/home/ostturm/Documents/iCUB/TRYNE/assignment_make-it-roll-master/build/CMakeFiles/install/local.dir
+/home/ostturm/Documents/iCUB/TRYNE/assignment_make-it-roll-master/build/CMakeFiles/uninstall.dir
+/home/ostturm/Documents/iCUB/TRYNE/assignment_make-it-roll-master/build/CMakeFiles/install.dir
+/home/ostturm/Documents/iCUB/TRYNE/assignment_make-it-roll-master/build/CMakeFiles/edit_cache.dir
+/home/ostturm/Documents/iCUB/TRYNE/assignment_make-it-roll-master/build/CMakeFiles/rebuild_cache.dir
+/home/ostturm/Documents/iCUB/TRYNE/assignment_make-it-roll-master/build/CMakeFiles/assignment_make-it-roll.dir
+/home/ostturm/Documents/iCUB/TRYNE/assignment_make-it-roll-master/build/CMakeFiles/list_install_components.dir
